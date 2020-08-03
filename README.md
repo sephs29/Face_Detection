@@ -10,9 +10,9 @@ I worked with three cascades:- 1) face_cascade 2) face_cascade2 3) profileface_c
 I found the face_cascade2 the most accurate.
 
 The cascade are most sensitive in grayscale than in color scale.
-image = "team4.png"
-The output is colored, but the image used for processing gray or colored.
-with gray scale(roi_gray)
-<img src = result/gray.png>
-with color scale(roi_color)
-<img src = result/color.png>
+<br>image = "team4.png"
+<br>The output is colored, but the image used for processing gray or colored.
+<br>with gray scale(roi_gray)
+<br><img src = result/gray.png>
+<br>with color scale(roi_color)
+<br><img src = result/color.png>

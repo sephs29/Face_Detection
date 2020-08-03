@@ -14,5 +14,6 @@ The cascade are most sensitive in grayscale than in color scale.
 <br>The output is colored, but the image used for processing gray or colored.
 <br>with gray scale(roi_gray)
 <br><img src = result/gray.png>
+<br><img src = Images/images2.jpg>
 <br>with color scale(roi_color)
 <br><img src = result/color.png>

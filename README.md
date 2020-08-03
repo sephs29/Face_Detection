@@ -11,4 +11,4 @@ I found the face_cascade2 the most accurate.
 
 The cascade are most sensitive in grayscale than in color scale.
 
-img src="https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg"
+<img src="https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg">

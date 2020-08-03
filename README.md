@@ -1,4 +1,5 @@
 # Face Detection
+<br> Python version: 3.6.8
 <br>This project has two scripts: 
 1) to detect screen image with single face in the image 
 2) to detect faces and eyes in the image
